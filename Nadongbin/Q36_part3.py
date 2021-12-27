@@ -1,4 +1,7 @@
 import numpy as np
+import sys
+
+input = sys.stdin.readline
 
 str1 = input()
 str2 = input()
